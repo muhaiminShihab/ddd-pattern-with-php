@@ -2,7 +2,7 @@
 declare(strict_types=1);
 
 /*
- * Copyright (c) 2017-2018 Brisys. All rights reserved.
+ * Copyright (c) 2017-2018. All rights reserved.
  */
 
 namespace Project\Biztel\Models\PromptSetting\Collections;
